@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ini-berita.github.io/kamar-topan/sitemap.xml
